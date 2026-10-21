@@ -37,3 +37,4 @@ This application was engineered with the assistance of a Colab AI assistant. The
 ## Limitations & Future Extensions
 - Uses a fixed, assumed risk-free rate of 2.0% (could pull dynamic Treasury bill yields).
 - Assumes static portfolio weights without periodic rebalancing.
+- The purpose of the application 
